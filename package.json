@@ -1,0 +1,12 @@
+{
+  "name": "entendendo-algoritmos",
+  "version": "1.0.0",
+  "description": "study of algorithms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Matheus Ednei",
+  "license": "ISC"
+}
