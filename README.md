@@ -10,6 +10,11 @@ Nesse repositório você encontrará resumos dos capitulos, resolução dos exer
 - Tempo de execução
 - Notação Big O
 
+#### Capitulo 2
+- Arrays
+- Listas encadeadas
+- Ordenação por seleção
+
 # Complexidade de algoritmos
 
 |ALGORITMO       |NÚMERO DE ETAPAS               |COMPLEXIDADE                 |
