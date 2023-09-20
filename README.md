@@ -15,6 +15,9 @@ Nesse repositório você encontrará resumos dos capitulos, resolução dos exer
 - Listas encadeadas
 - Ordenação por seleção
 
+#### Capitulo 3
+- Recursão
+
 # Complexidade de algoritmos
 
 |ALGORITMO       |NÚMERO DE ETAPAS               |COMPLEXIDADE                 |
