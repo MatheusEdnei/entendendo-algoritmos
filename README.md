@@ -18,6 +18,10 @@ Nesse repositório você encontrará resumos dos capitulos, resolução dos exer
 #### Capitulo 3
 - Recursão
 
+#### Capitulo 4
+- Método dividir para conquistar (DC)
+- QuickSort
+
 # Complexidade de algoritmos
 
 |ALGORITMO       |NÚMERO DE ETAPAS               |COMPLEXIDADE                 |

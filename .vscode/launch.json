@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/exercises-chapter-4/exercise-4-1.js"
+        }
+    ]
+}
