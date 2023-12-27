@@ -9,4 +9,12 @@ const graph = {
     F: ['E'],
 };
 
+const family = {
+    Paul: ['Annie', 'Claire', 'Ella'],
+    Annie: ['Paul', 'Claire', 'Ella'],
+    Claire: ['Paul', 'Annie', 'Ella'],
+    Ella: ['Paul', 'Annie', 'Claire'],
+};
+
+
 console.log(breadthFirstSearch(graph, 'A', 'F')); 
